@@ -1,5 +1,5 @@
 # Data4Econ_Hackaton
-Data4Econ Hackathon is an hackathon dedicated to data analytics for economics. This event brings together students, researchers, and professionals to tackle real-world challenges using data provided by Alperia and Gruppo Dolomiti Energia
+Data4Econ Hackathon is an hackathon dedicated to data analytics for economics. This event brings together students, researchers, and professionals to tackle real-world challenges using data provided by Alperia and Gruppo Dolomiti Energia.
 
 ## Introduction
 The goal of this study is to forecast the hourly energy production of a plant for January 2025 using historical data from 2024 and weather forecasts. We adopt an AI-based approach trained on 2024 data (actual production and observed weather) to estimate future production from forecasted meteorological variables. 
